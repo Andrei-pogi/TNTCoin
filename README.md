@@ -140,11 +140,10 @@ export const RANDOM_BLOCK_ITEM = 'minecraft:amethyst_block';
  * List of possible blocks when placing random blocks.
  */
 export const BLOCKS = [
-    "minecraft:pink_wool",
-    "minecraft:magenta_wool",
-    "minecraft:orange_wool",
-    "minecraft:lime_wool",
-    "minecraft:yellow_wool",
+    "minecraft:iron_block",
+    "minecraft:gold_block",
+    "minecraft:emerald_block",
+    "minecraft:diamond_block",
     // ... add more blocks here`
 ];
 ```
